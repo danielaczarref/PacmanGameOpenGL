@@ -1,4 +1,4 @@
-# PacmanGameOpenGL
+# Pacman Game with OpenGL
 
 This is a game written in C/C++ programming language with OpenGL lib as a final project for my Computer Graphics subject in my Computer Engineering major.
 
