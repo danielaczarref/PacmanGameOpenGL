@@ -9,7 +9,7 @@ It still requires an upgrade in many levels but I'm proud of my work. Btw, you c
 ## Running Pacman Game
 
 ```console
-foo@bar:~$ make && ./example
+daniela@mermista:~$ make && ./example
 ```
 ## Installing OpenGL library from command line
 
