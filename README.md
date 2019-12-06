@@ -2,9 +2,9 @@
 
 This is a game written in C/C++ programming language with OpenGL lib as a final project for my Computer Graphics subject in my Computer Engineering major.
 
-This is a very basic Pacman Game, so don't expect many levels, or many villains. It's simply my understanding of OpenGL properties translated as a game, in which contains geometric transformations, animations, and tons and tons of programming logic. 
+This is a very basic Pacman Game, so don't expect many levels, or many villains. It's simply my understanding of OpenGL properties translated as a game, in which contains geometric transformations, animations, texture, and tons and tons of programming logic. 
 
-It still requires an upgrade in many levels but I'm proud of my work. 
+It still requires an upgrade in many levels but I'm proud of my work. Btw, you could find weird that many of my functions, objects and variables are written in another language, aka my mother language brazilian portuguese, but I'm sure you'll manage to understand the purpose of them.
 
 ## Running Pacman Game
 
